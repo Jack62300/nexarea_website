@@ -4,6 +4,12 @@ TEST EDITION
 
 Plateforme de classement et gestion de serveurs de jeux vidéo.
 
+## 📹 Présentation Vidéo
+
+Pour créer une vidéo de présentation du projet, consultez les guides détaillés :
+- 🇫🇷 **[Guide de présentation vidéo (Français)](VIDEO_PRESENTATION.md)** - Script complet, timing, conseils de réalisation
+- 🇬🇧 **[Video Presentation Guide (English)](VIDEO_PRESENTATION_EN.md)** - Complete script, timing, production tips
+
 ## Stack technique
 
 - **Framework** : Symfony 7.4
@@ -144,7 +150,10 @@ templates/
 
 ## Documentation
 
-Voir [FONCTIONNALITES.md](FONCTIONNALITES.md) pour la documentation complète de toutes les fonctionnalités.
+- **[FONCTIONNALITES.md](FONCTIONNALITES.md)** - Documentation complète de toutes les fonctionnalités (en français)
+- **[VIDEO_PRESENTATION.md](VIDEO_PRESENTATION.md)** - Guide complet pour créer une vidéo de présentation (en français)
+- **[VIDEO_PRESENTATION_EN.md](VIDEO_PRESENTATION_EN.md)** - Complete guide for creating a presentation video (in English)
+- **[COMMANDS.md](COMMANDS.md)** - Commandes console disponibles
 
 ## Licence
 
